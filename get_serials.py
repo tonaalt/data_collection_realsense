@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 import pyrealsense2 as rs
 
 # Create a context object. This object owns the handles to all connected RealSense devices.
